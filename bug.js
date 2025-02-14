@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test an app that uses a custom scheme in its URL handling.  The Expo Go app does not support custom URL schemes.  Attempting to open a custom URL scheme will result in the app crashing or failing to open the URL.
